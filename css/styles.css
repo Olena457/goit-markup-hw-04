@@ -179,6 +179,7 @@ p {
   padding-top: 24px;
   padding-bottom: 24px;
   display: block;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .nav-page:hover,
 .nav-page:focus {
