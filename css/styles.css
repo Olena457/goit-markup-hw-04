@@ -149,13 +149,15 @@ p {
   background-size: cover;
   max-width: 1440px;
   margin: 0 auto;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 /* (p)articles styles */
 .article-work,
 .article-team,
 .article-potfolio {
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .article-team.position {
